@@ -1,0 +1,12 @@
+{
+  "name": "d0550767",
+  "version": "0.0.1",
+  "description": "D0550767",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"homework": "echo helloworld"
+  },
+  "author": "",
+  "license": "ISC"
+}
