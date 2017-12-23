@@ -1,0 +1,23 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "D0512770",
+  "main": "index.js",
+  "scripts": {
+  "start": "echo '執行 start' && exit 1",
+  "test": "echo '執行 test' && exit 1",
+  "preinstall": "echo '執行 preinstall'",
+  "install": "echo '執行 install'",
+  "postinstall": "echo '執行 postinstall'",
+  "homework": "echo helloworld"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
